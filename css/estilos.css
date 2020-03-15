@@ -7,7 +7,7 @@ body
 #container{
 	width: 80%;
 	padding: 1em;
-	text-align: center;
+	text-align: left;
 	border: 1px solid #DDD;
 	margin: 0 auto;
 }
